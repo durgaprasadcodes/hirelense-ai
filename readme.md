@@ -63,38 +63,55 @@ Traditional hiring funnels rely heavily on algorithmic keyword matching and auto
 
 ## 📸 Application Screenshots
 
-### 1. Resume Intelligence Dashboard
-> Complete ATS evaluation report displaying the circular score gauge, KPI scorecards, candidate credentials, and actionable audit items.
+### 1. Landing & Hero Showcase
 
-![Resume Intelligence Report](docs/images/analysis-dashboard.png)
+<div align="center">
+  
+> Conversion-focused landing page introducing the platform, core value propositions, and supported tech engineering standards.
+<img width="795" height="449" alt="image" src="https://github.com/user-attachments/assets/37fdc7e1-6f22-4a9a-a5e3-7d22d85ad9b0" />
+    
+</div>
 
 ---
+
 
 ### 2. Dual-Column Upload & JD Workbench
+<div align="center">
+  
 > Side-by-side ingestion interface allowing candidates to upload PDF resumes and supply target Job Descriptions simultaneously.
-
-![Resume Upload Workbench](docs/images/resume-upload.png)
-
----
-
-### 3. Landing & Hero Showcase
-> Conversion-focused landing page introducing the platform, core value propositions, and supported tech engineering standards.
-
-![Landing Page](docs/images/landing-page.png)
+<img width="795" height="449" alt="image" src="https://github.com/user-attachments/assets/fafd504e-962f-40c1-8aea-40ad4bf45bfc" />
+  
+</div>
 
 ---
 
-### 4. Authentication & Registration
-> Clean authentication modal supporting dual-phase email verification and one-click Google OAuth sign-in.
-
-![Registration Screen](docs/images/auth-register.png)
+### 3. Resume Intelligence Dashboard
+<div align="center">
+> Complete ATS evaluation report displaying the circular score gauge, KPI scorecards, candidate credentials, and actionable audit items.
+<img width="795" height="449" alt="image" src="https://github.com/user-attachments/assets/28acb374-2c2d-4a68-89ad-ae634b7b1956" />
+  
+</div>
 
 ---
 
-### 5. Candidate Account Settings
+### 4. Candidate Account Settings
+<div align="center">
+
 > User management dashboard displaying verification badges, profile settings, and previous resume upload history.
+<img width="795" height="449" alt="image" src="https://github.com/user-attachments/assets/5631b683-5887-4398-a4ea-b11b2266928b" />
 
-![Account Profile](docs/images/account-profile.png)
+</div>
+
+
+---
+
+### 5. Authentication & Registration
+<div align="center">
+
+> Clean authentication modal supporting dual-phase email verification and one-click Google OAuth sign-in.
+<img width="795" height="449" alt="image" src="https://github.com/user-attachments/assets/0d0a5dff-21b0-4a81-869e-6abfe70bd33d" />
+
+</div>
 
 ---
 
