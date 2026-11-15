@@ -275,7 +275,7 @@ Before running the project locally, ensure you have installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hirelense-ai.git
+git clone https://github.com/durgaprasadcodes/hirelense-ai.git
 cd hirelense-ai
 ```
 
@@ -436,7 +436,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 **Durga Prasad Kota**  
 *AI/ML Engineer & Python Backend Developer*
 
-- **GitHub:** [@your-github-username](https://github.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **GitHub:** [@durgaprasadcodes](https://github.com/durgaprasadcodes)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/durgaprasadkota)
 - **Email:** durgaprasad04289@gmail.com
 
