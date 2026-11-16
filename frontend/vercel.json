@@ -1,8 +1,8 @@
 {
-    "rewrites": [
-        {
-            "source": "/api/:path*",
-            "destination": "https://onrender.com*"
-        }
-    ]
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://hirelense-ai.onrender.com/api/:path*"
+    }
+  ]
 }
