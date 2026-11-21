@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://hirelense-ai.onrender.com/api/:path*"
+      "destination": "https://hirelense-ai.onrender.com/:path*"
     },
     {
       "source": "/(.*)",
